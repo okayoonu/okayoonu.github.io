@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okayoonu.github.io/MQH/sitemap_index.txt
+Sitemap: https://okayoonu.github.io/SGZ/sitemap_index.txt
+Sitemap: https://okayoonu.github.io/lse/sitemap_index.txt
+Sitemap: https://okayoonu.github.io/sho/sitemap_index.txt
